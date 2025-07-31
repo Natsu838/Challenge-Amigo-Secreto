@@ -45,10 +45,3 @@ Este projeto simula um sorteio de <strong>Amigo Secreto</strong>. As funcionalid
 
 <h2>:cd: Instalação</h2>
 
-Para rodar o projeto localmente, siga os passos abaixo:
-
-1. **Clone este repositório:**
-
-```bash
-git clone https://github.com/Natsu838/challenge-Amigo-Secreto.git
-
